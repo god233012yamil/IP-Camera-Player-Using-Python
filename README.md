@@ -3,6 +3,23 @@ This Python project implements an IP Camera Player using PyQt5 and OpenCV. It al
 
 ![image](https://github.com/user-attachments/assets/694a66ed-1295-4843-a4d2-433f7d49f619)
 
+## Table of Contents
+
+1. [Features](#features)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Key Components](#key-Components)
+6. [Configuration](#configuration)
+7. [Error Handling](#error-Handling)
+8. [License](#license)
+9. [Acknowledgments](#acknowledgments)
+10. [Version History](#version-history)
+11. [Known Issues](#known-issues)
+12. [Support](#support)
+13. [Development Notes](#development-notes)
+14. [Download the Executable](#download-the-executable)
+
 ## Features
 
 - **Real-time Video Streaming**: Connect to and stream from RTSP-enabled IP cameras
@@ -171,3 +188,10 @@ For developers looking to modify or extend the application:
 - Use type hints for function parameters
 - Document complex logic with inline comments
 - Maintain consistent error-handling patterns
+
+## Download the Executable
+To make it easier for users to run the project without needing to set up a development environment, we've provided an executable version of the IP Camera Player.
+
+You can download the executable from the following link:
+
+https://drive.google.com/file/d/1n3SFtSbMknIix4lOmja2aC4tnA3yDfKu/view?usp=sharing
